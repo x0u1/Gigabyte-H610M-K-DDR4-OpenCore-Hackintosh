@@ -1,0 +1,1 @@
+# Gigabyte-H610M-K-DDR4-OpenCore-Hackintosh
